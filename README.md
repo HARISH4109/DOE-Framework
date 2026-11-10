@@ -64,3 +64,4 @@ Fill in your credentials in `.env`:
 ## 🔒 Security Notice
 
 All secrets, environment files (`.env`), Google OAuth credentials (`credentials.json`, `token.json`), and temporary caches (`.tmp/`) are strictly excluded via `.gitignore` to prevent credential exposure.
+
