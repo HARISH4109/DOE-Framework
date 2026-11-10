@@ -1,0 +1,38 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Google OAuth credentials & keys
+credentials.json
+token.json
+client_secrets*.json
+*.key
+*.pem
+service_account*.json
+
+# Temporary / intermediate files & profiles
+.tmp/
+*.log
+
+# Python compiled bytecode & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+.ruff_cache/
+.pytest_cache/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
