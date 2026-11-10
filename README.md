@@ -1,6 +1,6 @@
-# Harish DOE Workspace (Deterministic Orchestrated Execution)
+# DOE Framework (Directive, Orchestration, Execution)
 
-An agentic automation framework separating concerns across a **3-Layer Architecture** (Directives, Orchestration, and Deterministic Python Execution) to deliver robust, reproducible business pipelines.
+An agentic automation framework separating concerns across a **3-Layer Architecture** (Directive, Orchestration, and Execution) to deliver robust, reproducible business pipelines.
 
 ---
 
